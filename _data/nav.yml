@@ -1,5 +1,5 @@
 - name: Home
-  path: index.html
+  path: portfolio-test/index.html
   section_id: home
   children:
     - name: Home Studio
@@ -7,7 +7,7 @@
     - name: Home Personal
       path: index-personal.html
 - name: Pages
-  path: about.html
+  path: portfolio-test/about.html
   section_id: pages
   children:
     - name: About Us
@@ -17,7 +17,7 @@
     - name: Services 2
       path: services-2.html
 - name: Works
-  path: portfolio.html
+  path: portfolio-test/portfolio.html
   section_id: works
   children:
     - name: Portfolio Style 1
