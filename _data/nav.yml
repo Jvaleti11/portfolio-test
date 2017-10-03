@@ -1,23 +1,23 @@
 - name: Home
-  path: portfolio-test/index.html
+  path: index.html
   section_id: home
-  children:
-    - name: Home Studio
-      path: index.html
-    - name: Home Personal
-      path: index-personal.html
-- name: Pages
-  path: portfolio-test/about.html
-  section_id: pages
-  children:
-    - name: About Us
-      path: about.html
-    - name: Services
-      path: services.html
-    - name: Services 2
-      path: services-2.html
+  # children:
+  #   - name: Home Studio
+  #     path: index.html
+  #   - name: Home Personal
+  #     path: index-personal.html
+# - name: Pages
+#   path: about.html
+#   section_id: pages
+#   children:
+#     - name: About Us
+#       path: about.html
+#     - name: Services
+#       path: services.html
+#     - name: Services 2
+#       path: services-2.html
 - name: Works
-  path: portfolio-test/portfolio.html
+  path: portfolio.html
   section_id: works
   children:
     - name: Portfolio Style 1
