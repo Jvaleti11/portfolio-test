@@ -7,7 +7,7 @@
   #   - name: Home Personal
   #     path: index-personal.html
 # - name: Pages
-#   path: {{ site.baseurl }}/about.html
+#   path: about.html
 #   section_id: pages
 #   children:
 #     - name: About Us
@@ -17,25 +17,25 @@
 #     - name: Services 2
 #       path: services-2.html
 - name: Works
-  path: {{ site.baseurl }}/portfolio-test/portfolio.html
+  path: portfolio.html
   section_id: works
   children:
     - name: Portfolio Style 1
-      path: {{ site.baseurl }}/portfolio.html
+      path: portfolio.html
     - name: Portfolio Style 2
-      path: {{ site.baseurl }}/portfolio-2.html
+      path: portfolio-2.html
     - name: Single Page 1
-      path: {{ site.baseurl }}/portfolio-item.html
+      path: portfolio-item.html
     - name: Single Page 2
-      path: {{ site.baseurl }}/portfolio-item-2.html
+      path: portfolio-item-2.html
 - name: Contact
-  path: {{ site.baseurl }}/contact.html
+  path: contact.html
   section_id: contact
 - name: Blog
-  path: {{ site.baseurl }}/blog.html
+  path: blog.html
   section_id: blog
   children:
     - name: Blog
-      path: {{ site.baseurl }}/blog/
+      path: blog/
     - name: Single Page
-      path: {{ site.baseurl }}/travel/2016/04/06/beautiful-day.html
+      path: travel/2016/04/06/beautiful-day.html
